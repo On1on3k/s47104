@@ -7,7 +7,7 @@ p{
   letter-spacing: 2px;
 }
 h1{
-  background-color: #0277BD;
+        background-color: #0277BD;
         border-radius: 20px;
         margin: 0 auto;
         width: 50%;
@@ -19,7 +19,7 @@ h1{
         color:white;
 }
 h2{
-  background-color: #8532a8;
+        background-color: #8532a8;
         border-radius: 20px;
         margin: 0 auto;
         width: 50%;
@@ -31,7 +31,7 @@ h2{
         color:white;
 }
 h3{
-background-color: #877d0b;
+        background-color: #877d0b;
         border-radius: 20px;
         margin: 0 auto;
         width: 50%;
