@@ -7,17 +7,38 @@ p{
   padding: 10px;
 }
 h1{
-  text-align:center;
-  color:orange;
-  font-family: Arial;
+  background-color: #0277BD;
+        border-radius: 20px;
+        margin: 0 auto;
+        width: 50%;
+        height: 50px;
+        text-align: center;
+        padding: 20px 0px 0px 0px;
+        letter-spacing: 1px;
+        font-size: 25px;
+        color:white;
 }
 h2{
-  text-align:center;
-  color:red;
-  font-family: Arial;
+  background-color: #8532a8;
+        border-radius: 20px;
+        margin: 0 auto;
+        width: 50%;
+        height: 50px;
+        text-align: center;
+        padding: 20px 0px 0px 0px;
+        letter-spacing: 1px;
+        font-size: 25px;
+        color:white;
 }
 h3{
-text-align:center;
-  color:purple;
-  font-family: Arial;
+background-color: #877d0b;
+        border-radius: 20px;
+        margin: 0 auto;
+        width: 50%;
+        height: 50px;
+        text-align: center;
+        padding: 20px 0px 0px 0px;
+        letter-spacing: 1px;
+        font-size: 25px;
+        color:white;
 }
